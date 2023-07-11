@@ -11,6 +11,10 @@ Olá, Bem vindo ao meu projeto de portfólio que desenvolvi atraves dos cursos d
 
 * Flex-box
 
+## Link para acessar projeto publicado:
+
+### https://portifolio-alura-guhrosseti.vercel.app/
+
 ## Feito por:
 
 ### Gustavo Rosseti
