@@ -1,7 +1,7 @@
 # Portfólio Alura
 Olá, Bem vindo ao meu projeto de portfólio que desenvolvi atraves dos cursos da Alura.
 
-![image](https://github.com/Guhrosseti/assets-readme/blob/main/portfolio-alura.png)
+![image](https://github.com/Guhrosseti/portifolio-alura/blob/main/assets/portfolio-alura.png)
 
 ## Ferramentas utilizadas:
 
