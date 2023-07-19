@@ -17,6 +17,6 @@ Olá, Bem vindo ao meu projeto de portfólio que desenvolvi atraves dos cursos d
 
 ## Feito por:
 
-### Gustavo Rosseti
+### Gustavo Rosseti.
 
 ### Linkedin: https://www.linkedin.com/in/gustavorosseti/
